@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "SixMinApi": {
+    "iRosterApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

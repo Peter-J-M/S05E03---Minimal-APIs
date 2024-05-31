@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace SixMinApi.Migrations
+namespace iRosterApi.Migrations
 {
     public partial class initialmigration : Migration
     {

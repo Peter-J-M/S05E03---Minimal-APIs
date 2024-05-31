@@ -1,17 +1,14 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace SixMinApi.Models
+namespace iRosterApi.Dtos
 {
-    public class Command
+    public class CommandCreateDto
     {
-        [Key]
-        public int Id { get; set; }
-
         [Required]
         public string? HowTo { get; set; }
 
         [Required]
-        [MaxLength(6)]
+        [MaxLength(5)]
         public string? Platform { get; set; }
 
         [Required]

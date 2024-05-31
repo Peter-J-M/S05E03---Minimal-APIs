@@ -1,7 +1,7 @@
+using iRosterApi.Models;
 using Microsoft.EntityFrameworkCore;
-using SixMinApi.Models;
 
-namespace SixMinApi.Data
+namespace iRosterApi.Data
 {
     public class CommandRepo : ICommandRepo
     {

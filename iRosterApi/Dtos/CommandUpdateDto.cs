@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace SixMinApi.Dtos
+namespace iRosterApi.Dtos
 {
-    public class CommandCreateDto
+    public class CommandUpdateDto
     {
         [Required]
         public string? HowTo { get; set; }

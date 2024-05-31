@@ -1,6 +1,6 @@
-using SixMinApi.Models;
+using iRosterApi.Models;
 
-namespace SixMinApi.Data
+namespace iRosterApi.Data
 {
     public interface ICommandRepo
     {

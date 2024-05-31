@@ -1,4 +1,4 @@
-namespace SixMinApi.Dtos
+namespace iRosterApi.Dtos
 {
     public class CommandReadDto
     {     

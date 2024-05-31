@@ -1,8 +1,8 @@
 using AutoMapper;
-using SixMinApi.Dtos;
-using SixMinApi.Models;
+using iRosterApi.Dtos;
+using iRosterApi.Models;
 
-namespace SixMinApi.Profiles
+namespace iRosterApi.Profiles
 {
     public class CommandsProfile : Profile
     {
